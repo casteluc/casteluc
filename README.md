@@ -6,8 +6,8 @@ I'm Lucas, a 19 year old Software Engineer from Brazil and I'm passionate about 
 looking to improve my skills.
 
 ### More about me:
-- 🐺 I’m currently president of [IN Junior](https://injunior.com.br/)
-- 📚 I'm a Information Systems student in UFF (Universidade Federal Fluminense)
+- 🐺 I’m currently president of [IN Junior](https://injunior.com.br/).
+- 📚 I'm a Information Systems student in UFF (Universidade Federal Fluminense).
 
 ### Technologies 👨‍💻
 <p>
