@@ -25,9 +25,9 @@ I'm Lucas, a 19 year old Software Engineer from Brazil and I'm passionate about 
 
 ### Reach me 📫
 <p>
-  <a target="_blank"href="https://www.linkedin.com/in/casteluc"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-  <a target="_blank"href="https://www.instagram.com/casteluc/"><img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="mailto:casteluc.dev@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/casteluc"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a target="_blank"href="https://www.instagram.com/casteluc/"><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;
+  <a href="mailto:casteluc.dev@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 </p>
 
-</p>
+
