@@ -1,13 +1,13 @@
+# Hey there 👋
+
 <img align="right" src="https://github.com/casteluc/casteluc/blob/main/assets/computer-illustration.png" width="350"/>
 
-### Hey there 👋
-
-I'm Lucas, a 19 year old Software Engineer from Brazil and I'm passionate about technology, design, and creating ideas that impact and inspire. I love to learn and I'm always looking to improve my skills.
+I'm Lucas, a 19 year old Software Engineer from Brazil and I'm passionate about technology, design, and creating ideas that impact and inspire. I love to learn and I'm always 
+looking to improve my skills.
 
 ### More about me:
 - 🐺 I’m currently president of [IN Junior](https://injunior.com.br/)
 - 📚 I'm a Information Systems student in UFF (Universidade Federal Fluminense)
-- 💬 Ask me about anything [here](https://github.com/casteluc/casteluc/issues)
 
 ### Technologies 👨‍💻
 <p>
