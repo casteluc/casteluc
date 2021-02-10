@@ -9,7 +9,7 @@ looking to improve my skills.
 - 🐺 I’m currently president of [IN Junior](https://injunior.com.br/).
 - 📚 I'm a Information Systems student in UFF (Universidade Federal Fluminense).
 
-### Technologies 👨‍💻
+### 👨‍💻 Technologies 
 <p>
 <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;
@@ -23,7 +23,7 @@ looking to improve my skills.
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
 </p>
 
-### Reach me 📫
+### 📫 Reach me 
 <p>
   <a target="_blank"href="https://www.linkedin.com/in/casteluc"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a target="_blank"href="https://www.instagram.com/casteluc/"><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;
