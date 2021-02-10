@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/casteluc/casteluc/blob/main/assets/computer-illustration.png" width="350"/>
 
-I'm Lucas, a 19 year old Software Engineer from Brazil and I'm passionate about technology, design, and creating ideas that impact and inspire. I love to learn and I'm always 
+I'm Lucas, a 19 year old Software Engineer from Brazil and passionate about technology, design, and creating ideas that impact and inspire. I love to learn and I'm always 
 looking to improve my skills.
 
 ### More about me:
