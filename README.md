@@ -23,6 +23,13 @@ looking to improve my skills.
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git&logoColor=%2300FFCC"/>&nbsp;
 </p>
 
+<img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api?username=casteluc&theme=gotham&hide=issues"/>&nbsp; 
+<img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casteluc&layout=compact&theme=gotham"/>&nbsp; 
+
+
+
+
+
 ### 📫 Reach me 
 <p>
   <a target="_blank"href="https://www.linkedin.com/in/casteluc"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
