@@ -1,6 +1,8 @@
 # Lucas Torres 👨‍💻
 
-Brazilian front-end developer and web design enthusiast passionate about dealing with people and their particularities. I am currently President of [IN Junior](https://injunior.com.br/), a junior enterprise  at the Universidade Federal Fluminense, a place which I have a lot of appreciation for and where I have the opportunity to evolve both personally and technically.
+Brazilian front-end developer and web design enthusiast passionate about dealing with people and their particularities. 
+
+I am currently President of [IN Junior](https://injunior.com.br/), a junior enterprise  at the Universidade Federal Fluminense, a place which I have a lot of appreciation for and where I have the opportunity to evolve both personally and technically.
 
 I have been studying programming since I was 17 and started on my own in web development in 2018. Today, the main technology I seek to develop is React, but I always try to keep myself updated and know a little about everything, including back-end and mobile development.
 
